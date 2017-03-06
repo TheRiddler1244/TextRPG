@@ -1,2 +1,4 @@
-# TextRPG
-My text based RPG class project
+Python Text-RPG
+===============
+
+Text-based RPG written in Python
